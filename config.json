@@ -1,9 +1,9 @@
 {
     "base_url_ui": "https://www.kinopoisk.ru/",
     "base_url_api": "https://api.kinopoisk.dev/v1.4/",
-    "token_info": {"X-API-KEY": "NZ8JQHD-CJ5MJ7B-J87YGF7-PDB34Y9"},
+    "token_info": {"X-API-KEY": "свой токен"},
     "auth_credentials": {
-        "username": "pahen1987L@yandex.ru",
-        "password": "PLPVWC9123"
+        "username": "своя почта, к которой привязан кинопоиск",
+        "password": "свой пароль, к который привязан кинопоиск"
     }
 }
